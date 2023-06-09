@@ -4,7 +4,7 @@ const search_result = document.querySelector(".search-result")
 const show_more = document.getElementById("show_more")
 const error_message = document.getElementById("errorMessage")
 // Use unplash API documention to get your ID
-const client_id = "3JrAt7BUuO3xB-zD6neY9HsBdoBaKtsnl7wmTBt8JhA"
+const client_id = "Enter your ID"
 let keyword
 let page = 1
 
